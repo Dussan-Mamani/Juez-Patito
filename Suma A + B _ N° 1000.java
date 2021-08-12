@@ -1,18 +1,18 @@
 # Juez-Patito
 
-Descripción :
+Descripción:
 El problema trata de sumar dos números
 
-Entrada :
+Entrada:
 Se le darán dos números A y B.
 
-Salida :
+Salida:
 Imprimir A+B
 
-Ejemplo Entrada :
+Ejemplo Entrada:
 1 2
 
-Ejemplo Salida :
+Ejemplo Salida:
 3
 
 # Código Java
