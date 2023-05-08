@@ -1,6 +1,6 @@
 # Juez-Patito
 
-Descr:
+Descripción:
 En la Escuela de poderes ACM Miguelito fue a luchar contra su Centro de Estudiantes, por su falta de seriedad a la hora de repartir galletas 
 (es un problema muy serio en los centros de estudiantes de todo el mundo).
 Existían N dinosaurios cada uno con varios poderes. Habrá Q rondas para luchar y en cada ronda se variará el poder de Miguelito
